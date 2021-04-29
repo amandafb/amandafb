@@ -7,8 +7,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
    <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
  </p>
-  ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=amandafb)
-
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandafb&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contato 
