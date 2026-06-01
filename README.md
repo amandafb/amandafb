@@ -42,7 +42,8 @@ Lighthouse: Performance 99 · Acessibilidade 94 · Best Practices 100 · SEO 100
 → [totalmusica.com.br](https://totalmusica.com.br)
 
 **[Jefferson Borim — Psicanalista](https://github.com/amandafb/site-jefferson-borim)** — Site institucional para profissional de saúde mental.
-HTML, CSS e JavaScript puros. Foco em acessibilidade, performance e clareza de comunicação.  
+HTML5, Bootstrap 5 e JavaScript vanilla. Tipografia fluida, animações com `prefers-reduced-motion` e acessibilidade cuidadosa.
+Lighthouse: Performance 99 · Acessibilidade 96 · Best Practices 100 · SEO 100.
 → [jeffersonborim.com.br](https://jeffersonborim.com.br)
 
 ---
